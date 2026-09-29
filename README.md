@@ -7,9 +7,9 @@ pada Program Studi Sistem Informasi.
 
 | Field  | Isian                     |
 |--------|---------------------------|
-| Nama   | [Nama Lengkap]            |
-| NIM    | [NIM Anda]                |
-| Kelas  | [Kelas Praktikum]         |
+| Nama   | Arya Adi Muhammad Iqbal   |
+| NIM    | 20241320018               |
+| Kelas  | A1 - Sistem Informas      |
 
 ---
 
