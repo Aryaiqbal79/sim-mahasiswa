@@ -9,7 +9,7 @@ pada Program Studi Sistem Informasi.
 |--------|---------------------------|
 | Nama   | Arya Adi Muhammad Iqbal   |
 | NIM    | 20241320018               |
-| Kelas  | A1 - Sistem Informas      |
+| Kelas  | A1 - Sistem Informasi     |
 
 ---
 
